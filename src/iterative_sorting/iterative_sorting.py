@@ -9,7 +9,6 @@ def selection_sort( arr ):
              
 
 
-
         # TO-DO: swap
 
 
